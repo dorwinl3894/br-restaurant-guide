@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## [Chinese](br-restaurant-guide/asian/chinese.md)
-## [Japanese](br-restaurant-guide/asian/japanese.md)
-## [Thai](br-restaurant-guide/asian/thai.md)
+## [Chinese](~/workspace/br-restaurant-guide/asian/chinese.md)
+## [Japanese](~/workspace/br-restaurant-guide/asian/japanese.md)
+## [Thai](~/workspace/br-restaurant-guide/asian/thai.md)
 ---
 [Start Over](~/workspace/br-restaurant-guide/home.md)
